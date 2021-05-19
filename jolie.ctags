@@ -1,0 +1,5 @@
+--langdef=Jolie
+--langmap=Jolie:.ol
+--langmap=Jolie:.iol
+
+--regex-jolie=
